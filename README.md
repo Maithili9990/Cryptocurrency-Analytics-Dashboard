@@ -30,7 +30,8 @@ Cryptocurrency Market Dataset
 ---
 
 ## Dashboard Preview
-Screenshots of the dashboard are included in this repository.
+
+![Dashboard Preview](Dashboard Screenshots.png)
 
 ---
 
